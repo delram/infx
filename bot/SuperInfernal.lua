@@ -233,23 +233,11 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {109722284,118682430,14072489},--Sudo users
+    sudo_users = {94477327},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[ InfernalTG V 4.1 
-  Website : https://Arash-Infernal.epage.IR
-  New Real Website soon :D
-  Official github : https://github.com/INFERNALTEAM/InfernalTG
-  Sudo admin : @ArashInfernal
-  You Can Get the Supports link in our github
-  antispam ; @INFERNALTG
-  powered by:
-  INFERNALTEAM 
-  our channels :
-  @INFERNANLTEAMCH [English]
-  @INFERNALTEAM [ English and per]
-  @INFERNALCHANNEL [persian]
+    about_text = [[This is It
 ]],
     help_text_realm = [[
 tools for InfernalTG :
@@ -288,8 +276,7 @@ tools for InfernalTG :
 > #sharesudo
 help all plugin soon :D ,"
 You Can Get Bot version by sending !version,"
-Master admin : @ArashInfernal ,"
-our channel : @INFERNALTEAMCH ,"
+@GenerousMan_Bot ,"
 
 
 
